@@ -19,3 +19,7 @@ TOOLS USED: MATLAB and Python
 APPLICATIONS: Manipulate signals, Removing unwanted Noise or Enhancing specific features.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9225c18f-31b7-42dd-a944-67cdf7691e21)
+
+![Image](https://github.com/user-attachments/assets/cdaebaaa-084b-4577-aac5-f1b48a71e0e3)
